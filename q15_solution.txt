@@ -1,0 +1,3 @@
+
+i) Car * cp = malibu      should be      Car * cp = &malibu;
+ii) Car malibu = {"Chevy",2012,"white"};
