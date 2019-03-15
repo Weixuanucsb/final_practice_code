@@ -42,7 +42,7 @@ int main(){
 	Node n3{35,&n4};
 	Node n2{20, &n3};
 	Node n1{10,&n2};
-	LinkedList myList{&n1,&n5};
+	LinkedList myList{&n1,&n5}; //10->20->35->40->50->NULL
 	
 	printReverseLinkedList(myList);
 
