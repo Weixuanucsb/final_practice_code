@@ -1,6 +1,6 @@
 #ifndef TDDFUNCS_H
 #define TDDFUNCS_H
-#include "linkedList.h"
+#include "linkedlist.h"
 
 #include <string>
 
